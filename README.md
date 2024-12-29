@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/SinghSyntax001/SinghSyntax001/blob/main/Shashank.png)
 <h1 align="center">Hi 👋, I'm Shashank Singh</h1>
 <h3 align="center">A passionate AI & ML student from India</h3>
 <img align="right" alt="coding" width="400px" src="https://media.tenor.com/nhYIwesZ87oAAAAd/rytis-modestas.gif">

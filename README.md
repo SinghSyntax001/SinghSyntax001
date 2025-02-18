@@ -1,28 +1,31 @@
 ![logo](https://github.com/SinghSyntax001/SinghSyntax001/blob/main/Shashank.png)
+
 <h1 align="center">Hi 👋, I'm Shashank Singh</h1>
 <h3 align="center">A passionate AI & ML student from India</h3>
-<img align="right" alt="coding" width="400px" src="https://media.tenor.com/nhYIwesZ87oAAAAd/rytis-modestas.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aha141&label=Profile%20views&color=0e75b6&style=flat" alt="SinghSyntax001" /> </p>
+<img align="right" alt="Coding" width="400px" src="https://media.tenor.com/nhYIwesZ87oAAAAd/rytis-modestas.gif">
 
-
-
-- 🌱 I’m currently learning **Python and Data Science**
-  
-- ☁️ I’m currently working on  **ML  Skills**
-  
-- 📧 Email me at [shashank9354@gmail.com](shashank9354@gmail.com)
-
-- ⚡ Fun fact **"I love playing PC games instead of coding..."**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-
-<a href="https://linkedin.com/in/shashank-singh-14a682282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashank-singh-14a682282" height="30" width="40" /></a>
-
+    <img src="https://komarev.com/ghpvc/?username=SinghSyntax001&label=Profile%20views&color=0e75b6&style=flat" alt="SinghSyntax001" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+- 🌱 I’m currently **enhancing my AI & ML skills**  
+- ☁️ Exploring **Machine Learning & Deep Learning**  
+- 📧 Reach me at **[shashank9354@gmail.com](mailto:shashank9354@gmail.com)**  
+- ⚡ Fun fact: **"I love playing PC games more than coding..." 🎮**  
+
+---
+
+### **Connect with me:**
+<p align="left">
+    <a href="https://linkedin.com/in/shashank-singh-14a682282" target="_blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    </a>
+</p>
+
+---
+
+### **Languages & Tools:**
 <p align="left">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
@@ -59,8 +62,17 @@
     </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SinghSyntax001&show_icons=true&locale=en&layout=compact" alt="SinghSyntax001" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SinghSyntax001&show_icons=true&locale=en" alt="SinghSyntax001" /></p>
+### **GitHub Stats:**
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SinghSyntax001&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SinghSyntax001&" alt="SinghSyntax001" /></p>
+<p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SinghSyntax001&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+<p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SinghSyntax001&" alt="GitHub Streak" />
+</p>

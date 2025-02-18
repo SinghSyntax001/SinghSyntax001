@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python and Data Science**
   
-- ☁️ I’m currently working on  **Google Cloud**
+- ☁️ I’m currently working on  **ML  Skills**
   
 - 📧 Email me at [shashank9354@gmail.com](shashank9354@gmail.com)
 
